@@ -1,2 +1,2 @@
-email :
-gitID :
+email :baekseunghoon1214@gmail.com
+gitID :GreetingJerry
